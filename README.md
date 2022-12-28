@@ -1,6 +1,6 @@
 # Only AWP + 4 FUN
 
-<b> Unikatowa paczka Only AWP + 4FUN - jedyna w swoim rodzaju poprzez unikatowy system losowania trybów.
+<b> Unikatowa paczka Only AWP + 4FUN - jedyna w swoim rodzaju poprzez unikatowy system losowania trybów. (aby samemu sprawdzić paczkę zgłoś się do właściciela poprzez discorda)
 
 ## Compatibility
 - 1.8.3-dev+5142
