@@ -6,7 +6,7 @@
 - 1.8.3-dev+5142
 - 1.9-dev+5235
 
-## Configuration
+### Configuration
 
 <b> - Paczki nie trzeba konfigurować, jest ona wstępnie skonfigurowana
 
@@ -32,7 +32,7 @@
 
 </details>
 
-#### Lista pluginów:
+### Lista pluginów:
 
 <details>
 <summary><b>Lista pluginów:</b></summary>
